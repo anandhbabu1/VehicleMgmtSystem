@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<settings>
+  <header>Vendor Management System</header>
+  <dbname>Vendor_Vehicle_Reg.accdb</dbname>
+<version>1.0</version>
+    <copyyear>2017</copyyear>
+  <companyname></companyname>
+</settings>
